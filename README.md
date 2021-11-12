@@ -5,6 +5,7 @@ The objective of this project is to demonstrate a methodological set of steps in
 1. [Project Proposal](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Proposal.pdf)
 2. [Project Progress](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Progress%20Report.pdf)
 3. [Peer Assessment](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/tree/master/Peer%20Assessment)
+4. [Iteration 1 (In-Progress)](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Deliverable%203%20Iteration%201.pdf)
 
 ## Contributors:
 * Sujeev Uthayakumar - 100744194
