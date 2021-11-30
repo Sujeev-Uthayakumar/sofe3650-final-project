@@ -8,7 +8,6 @@ The objective of this project is to demonstrate a methodological set of steps in
 4. [Iteration 1 (Completed)](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Deliverable%203%20Iteration%201.pdf)
 5. [Iteration 2 (Completed)](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Deliverable%203%20Iteration%202.pdf)
 6. [Iteration 3 (Completed)](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Deliverable%203%20Iteration%203.pdf)
-7
 8. [Final Peer Assessment](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Peer%20Assessment/Final%20Peer%20Assessment.pdf)
 
 ## Contributors:
