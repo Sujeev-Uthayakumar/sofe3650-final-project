@@ -9,6 +9,7 @@ In this iteration, the reference architecture was revised and the overall system
 - [Step 5: Instantiate Architecture Elements, Allocate Responsibilities, and Define Interfaces]
 - [Step 6: Sketch Views and Record Design Decisions]
 - [Step 7: Perform Analysis of Current Design and Review Iteration]
+- [Contributors]
 
 ## Iteration 1: Establishing an Overall System Structure
 The focus of this section is to present the results of the activities that are performed in each of the steps in iteration 1 of the ADD design process. Step 2 till the end of step 7 will be focusing on iteration 1, where we will refine our requirements and quality attributes.
