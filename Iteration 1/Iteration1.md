@@ -3,14 +3,14 @@ In this iteration, the reference architecture was revised and the overall system
 
 ## Table of Contents:
 - [Iteration 1 PDF](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Deliverable%203%20Iteration%201.pdf)
-- [Iteration 1: Establishing an Overall System Structure](#Iteration-1:-Establishing-an-Overall-System-Structure)
+- [Iteration 1: Establishing an Overall System Structure](#iteration-1-establishing-an-overall-system-structure)
 - [Step 2: Establish Iteration Goal by Selecting Drivers](#Step-2:-Establish-Iteration-Goal-by-Selecting-Drivers)
 - [Step 3: Choose One or More Element to Refine](#Step-3:-Choose-One-or-More-Element-to-Refine)
 - [Step 4: Choose One or More Design Concepts That satisfy The Selected Drivers]
 - [Step 5: Instantiate Architecture Elements, Allocate Responsibilities, and Define Interfaces]
 - [Step 6: Sketch Views and Record Design Decisions]
 - [Step 7: Perform Analysis of Current Design and Review Iteration]
-- [Contributors]
+- [Contributors](#contributors)
 
 ## Iteration 1: Establishing an Overall System Structure
 The focus of this section is to present the results of the activities that are performed in each of the steps in iteration 1 of the ADD design process. Step 2 till the end of step 7 will be focusing on iteration 1, where we will refine our requirements and quality attributes.
