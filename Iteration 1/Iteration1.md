@@ -4,7 +4,7 @@ In this iteration, the reference architecture was revised and the overall system
 ## Table of Contents:
 - [Iteration 1: Establishing an Overall System Structure](#Iteration-1:-Establishing-an-Overall-System-Structure)
 - [Step 2: Establish Iteration Goal by Selecting Drivers](#Step-2:-Establish-Iteration-Goal-by-Selecting-Drivers)
-- [Step 3: Choose one or more element to refine]
+- [Step 3: Choose One or More Element to Refine](#Step-3:-Choose-One-or-More-Element-to-Refine)
 - [Step 4: Choose one or more design concepts that satisfy the selected drivers]
 - [Step 5: Instantiate Architecture elements, allocate responsibilities, and define interfaces]
 - [Step 6: Sketch views and record design decisions ]
@@ -22,6 +22,9 @@ This is the first iteration of the design of a USChat system, so the iteration g
 - CON-3: Users should be authenticated before joining the room
 - CON-4: Network connection between user and server must have low bandwidth and be reliable
 - CON-5: The system must be accessed through a web browser such as Chrome, Firefox Safari, etc.
+
+## Step 3: Choose One or More Element to Refine
+In this case, the element to refine is the entire USChat system. This refinement is performed through decomposition. 
 
 
 
