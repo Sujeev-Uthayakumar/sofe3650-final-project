@@ -5,8 +5,8 @@ In this iteration, the reference architecture was revised and the overall system
 - [Iteration 1: Establishing an Overall System Structure](#Iteration-1:-Establishing-an-Overall-System-Structure)
 - [Step 2: Establish Iteration Goal by Selecting Drivers](#Step-2:-Establish-Iteration-Goal-by-Selecting-Drivers)
 - [Step 3: Choose One or More Element to Refine](#Step-3:-Choose-One-or-More-Element-to-Refine)
-- [Step 4: Choose one or more design concepts that satisfy the selected drivers]
-- [Step 5: Instantiate Architecture elements, allocate responsibilities, and define interfaces]
+- [Step 4: Choose One or More Design Concepts That satisfy The Selected Drivers]
+- [Step 5: Instantiate Architecture Elements, Allocate Responsibilities, and Define Interfaces]
 - [Step 6: Sketch views and record design decisions ]
 - [Step 7: Perform analysis of current design and review iteration]
 
@@ -28,6 +28,14 @@ In this case, the element to refine is the entire USChat system. This refinement
 
 ## Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers
 In this current iteration, the goal of structuring the entire system, design concepts are selected from the criteria presented in Section 1.1. The table below will summarize the selection of design decisions.
+
+## Step 5: Instantiate Architecture Elements, Allocate Responsibilities, and Define Interfaces
+The instantiation design decisions considered and made are summarized in the following table: 
+| Design Decision and Location                                                                        | Rationale                                                                                                                                                                                        |
+|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Create a module that facilitates express endpoints in the business layer within the Web Application | The application facade component from the reference architecture is updated to include express endpoints. This will facilitate QA-1 and QA-2 and will help with UC-2, UC-5, UC-6, UC-7, and UC-8 |
+| Within the Three-Tier Deployment, there will be a module implemented using Handlebars for users     | A component is added to the reference architecture to help GUI. This will facilitate QA-1 and QA-4 as well as will help with UC-6.                                                               |
+| In the data layer, there is a module in the Web Application using Heroku as the main data source    | A component from the reference architecture is updated to allow access to Heroku, a hosting application. Facilitates all quality attributes, as well as constraints.                             |
 
 ## Contributors:
 * Sujeev Uthayakumar - 100744194
