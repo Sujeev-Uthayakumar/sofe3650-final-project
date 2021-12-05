@@ -1,6 +1,7 @@
 # Table of Contents:
 - [The Design Process](#The-Design-Process)
 - [Step 1: Review Inputs](#Review-Inputs)
+- [Contributors:](#Contributors)
 
 ## The Design Process
 This is the first part of the design process, we must translate the requirements and quality attributes that were previously gathered into design decisions. These design decisions will be derived from figure 1.2, which is a list of our quality attributes. This is the beginning of making design decisions that will allow for the development of the entire design of USChat.
@@ -10,8 +11,18 @@ The first step of the ADD method involves reviewing the inputs and identifying w
 
 | Category | Details |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Design Purpose | The purpose is to build a sufficiently detailed design to support the construction of the USChat program |
+| Primary Functional Requirements | UC-1: Because it directly supports the core of the business <br/> UC-2: Because it directly supports the core of the business <br/> UC-6: Because it directly supports the core of the business <br/> UC-9: Because it directly supports the core of the business |
+| Constraints | All the constraints discussed in system requirements will be included as drivers |
+| Architectural Concerns | All the architectural concerns discussed in system requirements will be included as drivers |
+
+| ID | Importance to the Customer | Difficulty of Implementation According to the Architect |
+| --- | --- | --- |
+| QA-1 | Low | High |
+| QA-2 | High | Low |
+| QA-3 | High | Medium |
+| QA-4 | Medium | Medium |
+| QA-5 | Medium | High |
 
 ## Contributors:
 * Sujeev Uthayakumar - 100744194
