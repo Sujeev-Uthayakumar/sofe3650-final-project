@@ -7,7 +7,7 @@ In this iteration, the reference architecture was revised and the overall system
 - [Step 3: Choose One or More Element to Refine](#Step-3:-Choose-One-or-More-Element-to-Refine)
 - [Step 4: Choose One or More Design Concepts That satisfy The Selected Drivers]
 - [Step 5: Instantiate Architecture Elements, Allocate Responsibilities, and Define Interfaces]
-- [Step 6: Sketch views and record design decisions ]
+- [Step 6: Sketch Views and Record Design Decisions]
 - [Step 7: Perform analysis of current design and review iteration]
 
 ## Iteration 1: Establishing an Overall System Structure
@@ -36,6 +36,25 @@ The instantiation design decisions considered and made are summarized in the fol
 | Create a module that facilitates express endpoints in the business layer within the Web Application | The application facade component from the reference architecture is updated to include express endpoints. This will facilitate QA-1 and QA-2 and will help with UC-2, UC-5, UC-6, UC-7, and UC-8 |
 | Within the Three-Tier Deployment, there will be a module implemented using Handlebars for users     | A component is added to the reference architecture to help GUI. This will facilitate QA-1 and QA-4 as well as will help with UC-6.                                                               |
 | In the data layer, there is a module in the Web Application using Heroku as the main data source    | A component from the reference architecture is updated to allow access to Heroku, a hosting application. Facilitates all quality attributes, as well as constraints.                             |
+
+## Step 6: Sketch Views and Record Design Decisions
+| Element              | Responsibility                                                                                                                                                                                         |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Presentation Layer   | This layer contains modules that control user interaction and use case-control.                                                                                                                        |
+| User Interface       | This module renders the user interface and receives user inputs.                                                                                                                                       |
+| Handlebars           | Templating engine, which takes information from server-side and prints it to the presentation layer.                                                                                                   |
+| Business Layer       | This layer contains modules that perform business logic operations that can be executed to the business layer.                                                                                         |
+| Express.js Endpoints | This is used for endpoints, allowing to build a REST-based project. It allows for defining GET and POST methods. It also lets us send messages between requests and send responses back to the client. |
+| Business Workflow    | These components are responsible for managing (long-running) business processes, which may involve the execution of multiple use cases.                                                                |
+| Business Components  | These components are responsible for retrieving and processing application data and applying business rules to this data.                                                                              |
+| Business Entities    | These components represent the entities from the business domain and their associated business logic.                                                                                                  |
+| Data Layer           | This layer contains modules that are responsible for data persistence and for communication with the time server.                                                                                      |
+| Heroku               | This module is responsible for the persistence of business entities into the relational database.                                                                                                      |
+| Service Agents       | These components abstract communication mechanisms used to transfer data to external services.                                                                                                         |
+| Crosscutting         | Modules are applied to the whole system.                                                                                                                                                               |
+| Security             | These components include cross-cutting functionality that handles security aspects such as authorization and authentication.                                                                           |
+| Communication        | These components include cross-cutting functionality that handles communication mechanisms across layers and physical tiers.                                                                           |
+| Operation Management | These components include cross-cutting functionality such as exception management, logging, and instrumentation, and validation.                                                                       |
 
 ## Contributors:
 * Sujeev Uthayakumar - 100744194
