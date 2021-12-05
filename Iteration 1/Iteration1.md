@@ -57,23 +57,19 @@ The instantiation design decisions considered and made are summarized in the fol
 | Operation Management | These components include cross-cutting functionality such as exception management, logging, and instrumentation, and validation.                                                                       |
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration
-| Element              | Responsibility                                                                                                                                                                                         |
-|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Presentation Layer   | This layer contains modules that control user interaction and use case-control.                                                                                                                        |
-| User Interface       | This module renders the user interface and receives user inputs.                                                                                                                                       |
-| Handlebars           | Templating engine, which takes information from server-side and prints it to the presentation layer.                                                                                                   |
-| Business Layer       | This layer contains modules that perform business logic operations that can be executed to the business layer.                                                                                         |
-| Express.js Endpoints | This is used for endpoints, allowing to build a REST-based project. It allows for defining GET and POST methods. It also lets us send messages between requests and send responses back to the client. |
-| Business Workflow    | These components are responsible for managing (long-running) business processes, which may involve the execution of multiple use cases.                                                                |
-| Business Components  | These components are responsible for retrieving and processing application data and applying business rules to this data.                                                                              |
-| Business Entities    | These components represent the entities from the business domain and their associated business logic.                                                                                                  |
-| Data Layer           | This layer contains modules that are responsible for data persistence and for communication with the time server.                                                                                      |
-| Heroku               | This module is responsible for the persistence of business entities into the relational database.                                                                                                      |
-| Service Agents       | These components abstract communication mechanisms used to transfer data to external services.                                                                                                         |
-| Crosscutting         | Modules are applied to the whole system.                                                                                                                                                               |
-| Security             | These components include cross-cutting functionality that handles security aspects such as authorization and authentication.                                                                           |
-| Communication        | These components include cross-cutting functionality that handles communication mechanisms across layers and physical tiers.                                                                           |
-| Operation Management | These components include cross-cutting functionality such as exception management, logging, and instrumentation, and validation.                                                                       |
+| Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During this Iteration                                                                                     |
+|---------------|---------------------|----------------------|---------------------------------------------------------------------------------------------------------------------------------|
+|               |         UC-1        |                      | Selected reference architecture establishes modules that will support this functionality.                                       |
+|               |         UC-2        |                      | Selected reference architecture establishes modules that will support this functionality.                                       |
+|               |         UC-6        |                      | Selected reference architecture establishes modules that will support this functionality.                                       |
+|               |         UC-9        |                      | Selected reference architecture establishes modules that will support this functionality.                                       |
+|               |         QA-1        |                      | Addition of modules within the reference architecture in the data layer to store new users. The details have not been defined.  |
+|               |         QA-3        |                      | Supported with the inclusion of the Heroku development. But no further details were given.                                      |
+|               |         QA-4        |                      | Introduction of three-tier deployment using handler bars. Further details will be provided in later iterations.                 |
+|               |         QA-5        |                      | Addition of data source using Heroku. But no further details were given.                                                        |
+|               |        CON-3        |                      | Support with the three developments.                                                                                            |
+|               |        CON-4        |                      | No relevant decisions were made.                                                                                                |
+|               |                     |         CON-5        | Selection of reference architecture architectures and deployment patterns.                                                      |
 
 ## Contributors:
 * Sujeev Uthayakumar - 100744194
