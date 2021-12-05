@@ -1,7 +1,7 @@
 # Table of Contents:
 - [The Design Process](#The-Design-Process)
 - [Step 1: Review Inputs](#Review-Inputs)
-- [Contributors:](#Contributors)
+- [Contributors](#Contributors)
 
 ## The Design Process
 This is the first part of the design process, we must translate the requirements and quality attributes that were previously gathered into design decisions. These design decisions will be derived from figure 1.2, which is a list of our quality attributes. This is the beginning of making design decisions that will allow for the development of the entire design of USChat.
