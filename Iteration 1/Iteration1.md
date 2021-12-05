@@ -4,12 +4,12 @@ In this iteration, the reference architecture was revised and the overall system
 ## Table of Contents:
 - [Iteration 1 PDF](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Deliverable%203%20Iteration%201.pdf)
 - [Iteration 1: Establishing an Overall System Structure](#iteration-1-establishing-an-overall-system-structure)
-- [Step 2: Establish Iteration Goal by Selecting Drivers](#Step-2:-Establish-Iteration-Goal-by-Selecting-Drivers)
-- [Step 3: Choose One or More Element to Refine](#Step-3:-Choose-One-or-More-Element-to-Refine)
-- [Step 4: Choose One or More Design Concepts That satisfy The Selected Drivers]
-- [Step 5: Instantiate Architecture Elements, Allocate Responsibilities, and Define Interfaces]
-- [Step 6: Sketch Views and Record Design Decisions]
-- [Step 7: Perform Analysis of Current Design and Review Iteration]
+- [Step 2: Establish Iteration Goal by Selecting Drivers](#step-2-establish-iteration-goal-by-selecting-drivers)
+- [Step 3: Choose One or More Element to Refine](#step-3-choose-one-or-more-element-to-refine)
+- [Step 4: Choose One or More Design Concepts That Satisfy The Selected Drivers](#step-4-choose-one-or-more-design-concepts-that-satisfy-the-selected-drivers)
+- [Step 5: Instantiate Architecture Elements, Allocate Responsibilities, and Define Interfaces](#step-5-instantiate-architecture-elements-allocate-responsibilities-and-define-interfaces)
+- [Step 6: Sketch Views and Record Design Decisions](#step-6-sketch-views-and-record-design-decisions)
+- [Step 7: Perform Analysis of Current Design and Review Iteration](#step-7-perform-analysis-of-current-design-and-review-iteration)
 - [Contributors](#contributors)
 
 ## Iteration 1: Establishing an Overall System Structure
