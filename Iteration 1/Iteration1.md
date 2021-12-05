@@ -5,7 +5,7 @@ In this iteration, the reference architecture was revised and the overall system
 - [Iteration 1: Establishing an Overall System Structure](#Iteration-1:-Establishing-an-Overall-System-Structure)
 - [Step 2: Establish Iteration Goal by Selecting Drivers](#Step-2:-Establish-Iteration-Goal-by-Selecting-Drivers)
 - [Step 3: Choose One or More Element to Refine](#Step-3:-Choose-One-or-More-Element-to-Refine)
-- [Step 4: Choose one or more design concepts that satisfy the selected drivers](#Step-Four%3A-Choose-One-or-More-Design-Concepts-That-Satisfy-the-Selected-Drivers)
+- [Step 4: Choose one or more design concepts that satisfy the selected drivers](#Step-Four:-Choose-One-or-More-Design-Concepts-That-Satisfy-the-Selected-Drivers)
 - [Step 5: Instantiate Architecture elements, allocate responsibilities, and define interfaces]
 - [Step 6: Sketch views and record design decisions ]
 - [Step 7: Perform analysis of current design and review iteration]
