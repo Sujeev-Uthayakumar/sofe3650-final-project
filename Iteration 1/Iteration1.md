@@ -26,7 +26,7 @@ This is the first iteration of the design of a USChat system, so the iteration g
 ## Step 3: Choose One or More Element to Refine
 In this case, the element to refine is the entire USChat system. This refinement is performed through decomposition. 
 
-## Step Four Choose One or More Design Concepts That Satisfy the Selected Drivers
+## Step 4 Choose One or More Design Concepts That Satisfy the Selected Drivers
 
 ## Contributors:
 * Sujeev Uthayakumar - 100744194
