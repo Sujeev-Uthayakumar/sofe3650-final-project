@@ -3,14 +3,14 @@ In this iteration, the architecture elements are revised and structures are iden
 
 ## Table of Contents:
 - [Iteration 2 (Completed)](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Deliverable%203%20Iteration%202.pdf)
-- [Step 1: Identifying Structures to Support Primary Functionality]
+- [Step 1: Identifying Structures to Support Primary Functionality](#Step-2-Establish-Iteration-Goal-by-Selecting-Drivers)
 - [Step 2: Establish Iteration Goal by Selecting Drivers]
 - [Step 3: Choose One or More Elements of the System to Refine]
 - [Step 4: Choose One or More Design  Concepts That Satisfy the Selected Drivers]
 - [Step 5: Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces]
 - [Step 6: Sketch Views and Record Design Decisions]
 - [Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Process]
-- [Contributors:](#Contributors:)
+- [Contributors](#Contributors)
 
 ## Iteration 2: Identifying Structures to Support Primary Functionality
 The focus of this section is to present the results of the activities that are performed from each step of the ADD process in the second iteration. This iteration will dive deeper into more detailed decisions that will promote better implementation which will aid the development team. As we can not predict everything, we need to be more disciplined on which decisions we make and attack them from the most significant to least significant.
