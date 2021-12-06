@@ -8,7 +8,7 @@
 Use Cases:
 <p align="center">
   <img src="https://i.ibb.co/D9g4txG/Untitled-Diagram-drawio.png">
-<p align="center"><b>Use case model for USChat chat application system</b></p>
+<p align="center"><b>Figure 1.1 - Use case model for USChat chat application system</b></p>
 </p>
 
 
