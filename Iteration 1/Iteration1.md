@@ -127,6 +127,7 @@ This following table highlights the design decisions that were made during this 
 |               |        CON-3        |                      | Support with the three developments.                                                                                            |
 |               |        CON-4        |                      | No relevant decisions were made.                                                                                                |
 |               |                     |         CON-5        | Selection of reference architecture architectures and deployment patterns.                                                      |
+|               |                     |         CON-7        | Introduced heroku deployment, which stores user information on the server side                                                    |
 
 ## Contributors:
 * Sujeev Uthayakumar - 100744194
