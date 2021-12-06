@@ -33,20 +33,46 @@ In this case, the element to refine is the entire USChat system. This refinement
 
 ## Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers
 In this current iteration, the goal of structuring the entire system, design concepts are selected from the criteria presented in Section 1.1. The table below will summarize the selection of design decisions.
-<table>
+<table style="width: 50%">
   <tr>
     <th>Design Decision and Location</th>
-    <th>Rationale
-    <tr>
-      <td>nested table C1</td>
-       <td>nested table C2</td>
-    </tr>
-    </th>
-    
+    <th>Rationale</th>
   </tr>
   <tr>
     <td>Logically structure the client part of the system using the Web Application reference architecture.</td>
-    <td>The Web Application reference architecture supports the development of a web browser that communicates with the Heroku Development Server. This application supports web applications as the majority of it resides on the server, and its architecture is typically composed of three layers.</td>
+    <td>The Web Application reference architecture supports the development of a web browser that communicates with the Heroku Development Server. This application supports web applications as the majority of it resides on the server, and its architecture is typically composed of three layers.
+      <table>
+        <tr>
+          <th>Alternatives</th>
+          <th>Reason for Discarding</th>
+        </tr>
+        <tr>
+          <td>Rich Client Applications</td>
+          <td>This reference architecture is oriented towards a local application that is stand-alone. This architecture will not support your system as it requires a server to allow users to use it concurrently. This was discarded due to the usage of local components.
+</td>
+        </tr>
+        <tr>
+          <td>Rich Internet Applications</td>
+          <td>This reference architecture is oriented towards a browser application, however, it is using asynchronous javascript and XML. This was discarded due to not using some of the supported languages.</td>
+        </tr>
+        <tr>
+          <td>Mobile Applications</td>
+          <td>This reference architecture is oriented towards handheld devices. This was discarded as this system is not oriented towards mobile devices.</td>
+        </tr>
+      </table>
+</td>
+  </tr>
+  <tr>
+    <td>Physically structure the application using the Three-Tier Deployment pattern.</td>
+    <td>Since this system must be accessed from a web browser (CON-5)
+where (CON-3) and (CON-4) will be considered.
+</td>
+  </tr>
+  <tr>
+    <td>Deploy the application using Heroku Deployment. </td>
+    <td>Access to the application is obtained via a web browser (CON-5).
+This technology also facilitates (CON-1).
+</td>
   </tr>
 </table>
 
