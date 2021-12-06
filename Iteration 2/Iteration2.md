@@ -27,6 +27,31 @@ The elements that will be refined in this iteration are the modules located in t
 
 ## Step 4: Choose One or More Design Concepts that Satisfy the Selected Drivers
 The following table summarizes the design decisions.
+<table>
+  <tr>
+    <th>Design Decisions and Location</th>
+    <th>Rationale</th>
+  </tr>
+  <tr>
+    <td>Create a Domain Model for the application</td>
+    <td>Before starting a functional decomposition, it is necessary to create an initial domain model for the system, identifying major entities in the domain, along with their relationships.</td>
+  </tr>
+   <tr>
+     <td>Identify Domain Objects that map to the functional requirements</td>
+     <td>Each distinct functional element of the application needs to be encapsulated in a self-contained building block - a domain object.</td>
+  </tr>
+   <tr>
+     <td>Decompose Domain Objects into general and specialized Components</td>
+     <td>Domain objects represent complete sets of functionality, but this functionality is supported by finer-grained elements located within the layers. The “components” in this pattern are what we have referred to as modules.</td>
+  </tr>
+   <tr>
+     <td>Using JSON programming language, handlebars, and sockets</td>
+     <td>By using JSON which is a lightweight data-interchange format where data is able to be transferred and used through a web application. 
+Alongside that JSON supports many frameworks and libraries which support scalability. 
+By using handlebars which are functions that support GUI it makes it easier to display information from the server. Sockets.io is a library that is a real-time web application that allows for bidirectional communication between clients and servers.</td>
+  </tr>
+
+</table>
 
 ## Step 5: Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces 
 The instantiation design decisions made in this iteration are summarized in the following table:
