@@ -4,7 +4,7 @@ In this iteration, the architecture elements are revised and structures are iden
 The focus of this section is to present the results of the activities that are performed from each step of the ADD process in the second iteration. This iteration will dive deeper into more detailed decisions that will promote better implementation which will aid the development team. As we can not predict everything, we need to be more disciplined on which decisions we make and attack them from the most significant to least significant.
 
 ## Table of Contents:
-- [Iteration 2 PDF](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Iteration%202/Project%20Deliverable%203%20Iteration%202.pdf)
+- [Iteration 2 PDF](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Deliverable%203%20Iteration%202.pdf)
 - [Step 2: Establish Iteration Goal by Selecting Drivers](#Step-2-Establish-Iteration-Goal-by-Selecting-Drivers)
 - [Step 3: Choose One or More Elements of the System to Refine](#Step-3-Choose-One-or-More-Elements-of-the-System-to-Refine)
 - [Step 4: Choose One or More Design  Concepts That Satisfy the Selected Drivers](#Step-4-Choose-One-or-More-Design-Concepts-that-Satisfy-the-Selected-Drivers)
@@ -26,7 +26,7 @@ Besides CRN-3, the architect considers the system’s primary use cases:
 The elements that will be refined in this iteration are the modules located in the different layers defined by the three-tier reference architectures from the previous iteration. In general, the support of functionality in this system requires the collaboration of components associated with modules that are located in the different layers. 
 
 ## Step 4: Choose One or More Design Concepts that Satisfy the Selected Drivers
-The following table summarizes the design decisions.
+The following table summarizes the design decisions:
 <table>
   <tr>
     <th>Design Decisions and Location</th>
@@ -55,6 +55,30 @@ By using handlebars which are functions that support GUI it makes it easier to d
 
 ## Step 5: Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces 
 The instantiation design decisions made in this iteration are summarized in the following table:
+<table>
+  <tr>
+    <th>Design Decisions and Location</th>
+    <th>Rationale</th>
+  </tr>
+  <tr>
+    <td>Create only an initial domain model </td>
+    <td>The entities that participate in the primary use cases need to be identified and modeled but only an initial domain model is created, to accelerate this phase of design. </td>
+  </tr>
+  <tr>
+    <td>Map the system use cases to domain objects</td>
+    <td>Initial identification of domain objects can be made by analyzing the system's use cases. To address CRN-3, domain objects are identified for all of the use cases.</td>
+  </tr>
+  <tr>
+    <td>Decompose the domain objects across the layers to identify layer-specific modules with an 
+explicit interface 
+</td>
+    <td>This technique ensures that modules that support all of the functionalities are identified.
+The architect will perform this task just for the primary use cases. The rest of the team members will work on other modules, thus dividing up the work.
+A new concern will be created in which is identified below:
+CRN-4: Some of the modules shall be tested to determine their functionality.
+</td
+  </tr>
+</table>
 
 ## Step 6: Sketch Views and Record Design Decisions
 As a result of the decisions made in step 5, the design decisions can be portrayed into several diagrams.
