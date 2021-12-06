@@ -14,7 +14,7 @@ The focus of this section is to present the results of the activities that are p
 - [Contributors](#contributors)
 
 
-## Step 2: Establish Iteration Goal by Selecting Drivers
+## Step 2: Establish Iteration Goal by Selecting Drivers:
 This is the first iteration of the design of a USChat system, so the iteration goal is to establish the initial design of the system, where we will establish the overall system structure. This iteration will be driven by general architectural concerns, and there will be a focus on all the drivers that may further influence the general structure of the system. In particular, we will focus on items within:  
 - QA-1: Scalability
 - QA-3: Security
@@ -27,10 +27,10 @@ This is the first iteration of the design of a USChat system, so the iteration g
   <img src="https://i.ibb.co/txs2sfQ/context-diagram.jpg">
 </p>
 
-## Step 3: Choose One or More Element to Refine
+## Step 3: Choose One or More Element to Refine:
 In this case, the element to refine is the entire USChat system. This refinement is performed through decomposition. 
 
-## Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers
+## Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers:
 In this current iteration, the goal of structuring the entire system, design concepts are selected from the criteria presented in Section 1.1. The table below will summarize the selection of design decisions.
 <table>
   <tr>
@@ -75,7 +75,7 @@ This technology also facilitates (CON-1).
         </tr>
 </table>
 
-## Step 5: Instantiate Architecture Elements, Allocate Responsibilities, and Define Interfaces
+## Step 5: Instantiate Architecture Elements, Allocate Responsibilities, and Define Interfaces:
 The instantiation design decisions considered and made are summarized in the following table: 
 | Design Decision and Location                                                                        | Rationale                                                                                                                                                                                        |
 |-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -83,7 +83,7 @@ The instantiation design decisions considered and made are summarized in the fol
 | Within the Three-Tier Deployment, there will be a module implemented using Handlebars for users     | A component is added to the reference architecture to help GUI. This will facilitate QA-1 and QA-4 as well as will help with UC-6.                                                               |
 | In the data layer, there is a module in the Web Application using Heroku as the main data source    | A component from the reference architecture is updated to allow access to Heroku, a hosting application. Facilitates all quality attributes, as well as constraints.                             |
 
-## Step 6: Sketch Views and Record Design Decisions
+## Step 6: Sketch Views and Record Design Decisions:
 | Element              | Responsibility                                                                                                                                                                                         |
 |----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Presentation Layer   | This layer contains modules that control user interaction and use case-control.                                                                                                                        |
@@ -109,7 +109,7 @@ The instantiation design decisions considered and made are summarized in the fol
   <img src="https://i.ibb.co/fHZNpqs/iteration-3-deployment-1.jpg">
 </p>
 
-## Step 7: Perform Analysis of Current Design and Review Iteration
+## Step 7: Perform Analysis of Current Design and Review Iteration:
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During this Iteration                                                                                     |
 |---------------|---------------------|----------------------|---------------------------------------------------------------------------------------------------------------------------------|
 |               |         UC-1        |                      | Selected reference architecture establishes modules that will support this functionality.                                       |
