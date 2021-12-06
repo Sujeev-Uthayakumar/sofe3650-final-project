@@ -6,7 +6,7 @@ The objective of this project is to demonstrate a methodological set of steps in
 2. [Design Process](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Design%20Process/Design%20Process.md)
 3. [Iteration 1](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Iteration%201/Iteration1.md)
 4. [Iteration 2](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Iteration%202/Iteration2.md)
-5. [Iteration 3]()
+5. [Iteration 3](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Iteration%203/Iteration3.md)
 6. [Kanban Board](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/projects/1)
 
 ## Additional Content
