@@ -7,6 +7,7 @@ The objective of this project is to demonstrate a methodological set of steps in
 3. [Iteration 1](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Iteration%201/Iteration1.md)
 4. [Iteration 2]()
 5. [Iteration 3]()
+6. [Kanban Board](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/projects/1)
 
 ## Additional Content
 1. [Project Proposal](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Proposal.pdf)
@@ -17,7 +18,7 @@ The objective of this project is to demonstrate a methodological set of steps in
 6. [Iteration 3 PDF](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Deliverable%203%20Iteration%203.pdf)
 7. [Final Peer Assessment](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Peer%20Assessment/Final%20Peer%20Assessment.pdf)
 8. [Project Presentation](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Presentation.pdf)
-9. [Kanban Board](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/projects/1)
+
 
 ## Contributors:
 * Sujeev Uthayakumar - 100744194
