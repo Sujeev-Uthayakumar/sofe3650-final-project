@@ -18,7 +18,7 @@ Quality Attributes Scenarios:
 |------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------|
 | QA-1 | Scalability       | Create a user and send it to be stored within the server, with an ever-expanding user base.                                         | UC-1, UC-9 |
 | QA-2 | Usability         | Users are able to send messages and the timestamps are recorded.                                                                    | UC-2       |
-| QA-3 | Security          | Send location coordinates, however, the coordinate will not be exact as it will be moved to protect privacy.                        | UC-8       |
+| QA-3 | Security          | Send location coordinates, however an offset will be placed on the coordinates to protect user privacy.                       | UC-8       |
 | QA-4 | Performance       | The ability to perform all tasks without comprising real-time functionality. Where messages are seen within a second of being sent. | All        |
 | QA-5 | Availability      | Users are able to see other users as well as the admin.                                                                             | UC-6       |
 
