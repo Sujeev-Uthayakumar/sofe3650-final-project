@@ -188,6 +188,12 @@ The decisions made in this iteration provided an initial understanding of how th
     <td>UC-4</td>
     <td>Modules across the layers and preliminary interfaces to support this use case have been identified.</td>
   </tr>
+      <tr>
+    <td></td>
+    <td>UC-5</td>
+    <td></td>
+    <td>Included modules that will hold message data, and discussed a form of presentation which but have yet to address the implementation</td>
+  </tr>
   <tr>
     <td></td>
     <td></td>
@@ -247,6 +253,12 @@ The decisions made in this iteration provided an initial understanding of how th
     <td>CON-5</td>
     <td></td>
     <td>No relevant decision was made.</td>
+  </tr>
+     <tr>
+    <td></td>
+    <td>CON-6</td>
+    <td></td>
+    <td>Included modules that will contain the message data, but no implementation to hold such data was discussed.</td>
   </tr>
   <tr>
     <td></td>
