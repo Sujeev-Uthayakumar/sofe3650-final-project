@@ -33,6 +33,22 @@ In this case, the element to refine is the entire USChat system. This refinement
 
 ## Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers
 In this current iteration, the goal of structuring the entire system, design concepts are selected from the criteria presented in Section 1.1. The table below will summarize the selection of design decisions.
+<table>
+  <tr>
+    <th>Design Decision and Location</th>
+    <th>Rationale
+    <tr>
+      <td>nested table C1</td>
+       <td>nested table C2</td>
+    </tr>
+    </th>
+    
+  </tr>
+  <tr>
+    <td>Logically structure the client part of the system using the Web Application reference architecture.</td>
+    <td>The Web Application reference architecture supports the development of a web browser that communicates with the Heroku Development Server. This application supports web applications as the majority of it resides on the server, and its architecture is typically composed of three layers.</td>
+  </tr>
+</table>
 
 ## Step 5: Instantiate Architecture Elements, Allocate Responsibilities, and Define Interfaces
 The instantiation design decisions considered and made are summarized in the following table: 
