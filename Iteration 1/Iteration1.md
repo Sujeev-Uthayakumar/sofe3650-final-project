@@ -124,7 +124,7 @@ This following table highlights the design decisions that were made during this 
 |               |                 |             CON-2         | Addition of modules within the reference architecture in the data layer to store new users. With the introduction of heroku.  |
 |               |                |                QA-3       | Supported with the inclusion of the Heroku development. But no further details were given.                                      |
 |               |         QA-4        |                      | Introduction of three-tier deployment using Handlebars. Further details will be provided in later iterations.                 |
-|               |         QA-5        |                      | Addition of data source using Heroku. But no further details were given.                                                        |
+|               |             |            QA-5              | Addition of data source using Heroku, known for its high availability.                                                       |
 |               |        CON-3        |                      | Support with the three developments.                                                                                            |
 |               |        CON-4        |                      | No relevant decisions were made.                                                                                                |
 |               |                     |         CON-1        | The introduction of heroku, subsequently addresses the number of users able to use the system due to heroku being a extremly large service provider.                                                     |
