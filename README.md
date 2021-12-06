@@ -1,5 +1,9 @@
 # SOFE 3650 Final Project
-The objective of this project is to demonstrate a methodological set of steps in the design of a software architecture for a set of requirements provided by your instructor. The expected design approach to take is the Attribute Driven Design (ADD) presented in some detail in the text book [1] and briefly overviewed here. 
+The objective of this project is to demonstrate a methodological set of steps in the design of a software architecture for a set of requirements provided by your instructor. The expected design approach to take is the Attribute Driven Design (ADD) presented in some detail in the "Designing Software Architectures: A Practical Approach" textbook and briefly overviewed here.The ADD process is applied to our USChat application, where we focus on defining the system architecture along with building out the implementation of our primary use cases.
+
+Today’s chat apps are explored globally by billions of users for both personal as well as commercial fulfillment, USChat aims to target the extremly large communications market. The USChat chat application is a peer to peer software solution, that allows users to create and join chat rooms to communicate amongst one and another. Providing users with rich features, USChat aims deliver incredible live chat experience, allowing users to share text messages. Some of the key features of the system that are to be implemented is the ability to create distinct user names, a profanity checker, the ability to send server messages when users enter or leave the room and allowing users to send location. Finally, we want our application to be able to display messages quickly to other users. USChat is 
+
+The USChat chat application was chosen due to the group's interest in web applications. The group as a collective are looking to gain more insight on refining architectures surrounding web applications.
 
 ## Table of Contents:
 1. [System Requirements](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/System%20Requirements/System%20Requirements.md) 
