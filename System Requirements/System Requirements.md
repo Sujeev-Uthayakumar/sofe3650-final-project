@@ -5,8 +5,10 @@
 ## System Requirements
 
 Use Cases:
+<p align="center">
+  <img src="https://i.ibb.co/D9g4txG/Untitled-Diagram-drawio.png">
+</p>
 
-![Use Cases](https://i.ibb.co/D9g4txG/Untitled-Diagram-drawio.png)
 
 Quality Attributes Scenarios:
 | ID   | Quality Attribute | Scenario                                                                                                                            | Associated |
