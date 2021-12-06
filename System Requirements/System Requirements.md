@@ -6,7 +6,7 @@
 
 Use Cases:
 
-![Use Cases](https://ibb.co/64sPsj0)
+![Use Cases](https://i.ibb.co/VvBSBfY/uschat-use-cases.png)
 
 Quality Attributes Scenarios:
 | ID   | Quality Attribute | Scenario                                                                                                                            | Associated |
