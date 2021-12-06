@@ -80,7 +80,7 @@ CRN-4: Some of the modules shall be tested to determine their functionality.
   </tr>
 </table>
 
-## Step 6: Sketch Views and Record Design Decisions
+## Step 6: Sketch Views and Record Design Decisions:
 As a result of the decisions made in step 5, the design decisions can be portrayed into several diagrams.
 - The figure showcases an initial domain model for the system
 - The figure shows the domain objects that are instantiated for the use case model in Section
@@ -154,7 +154,7 @@ As a result of the decisions made in step 5, the design decisions can be portray
   </tr>
 </table>
  
-## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
+## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose:
 The decisions made in this iteration provided an initial understanding of how the system shall function. The modules associated with the primary use cases were identified by the architect, and the modules associated with the rest of the functionality were identified by the rest of the team.
 <table>
   <tr>
