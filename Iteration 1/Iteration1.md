@@ -25,7 +25,7 @@ This is the first iteration of the design of a USChat system, so the iteration g
 - CON-5: The system must be accessed through a web browser such as Chrome, Firefox Safari, etc.
 <p align="center">
   <img src="https://i.ibb.co/txs2sfQ/context-diagram.jpg">
-  <p align="center">Figure 2.1 - Context diagram for the USChat system</p>
+<p align="center"><b>Figure 2.1 - Context diagram for the USChat system</b></p>
 </p>
 
 ## Step 3: Choose One or More Element to Refine:
@@ -104,12 +104,12 @@ The instantiation design decisions considered and made are summarized in the fol
 | Operation Management | These components include cross-cutting functionality such as exception management, logging, and instrumentation, and validation.                                                                       |
 <p align="center">
   <img src="https://i.ibb.co/2ssYYky/iteration-1-architecture.jpg">
-  <p align="center">Figure 2.2 - Reference architecture for three-tier architecture</p>
+<p align="center"><b>Figure 2.2 - Reference architecture for three-tier architecture</b></p>
 </p>
 
 <p align="center">
   <img src="https://i.ibb.co/fHZNpqs/iteration-3-deployment-1.jpg">
-  <p align="center">Figure 2.3 - Initial deployment diagram based off of decisions made in iteration 1</p>
+  <p align="center"><b>Figure 2.3 - Initial deployment diagram based off of decisions made in iteration 1<b></p>
 </p>
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration:
