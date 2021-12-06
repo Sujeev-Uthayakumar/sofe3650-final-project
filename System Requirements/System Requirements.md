@@ -6,6 +6,7 @@
 ## System Requirements:
 
 Use Cases:
+The following figure showcases the primary use cases of the USChat application, which were derived from our previously discussed requirements.
 <p align="center">
   <img src="https://i.ibb.co/D9g4txG/Untitled-Diagram-drawio.png">
 <p align="center"><b>Figure 1.1 - Use case model for USChat chat application system</b></p>
