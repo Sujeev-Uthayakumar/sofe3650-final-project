@@ -1,6 +1,4 @@
 # SOFE 3650 Final Project Iteration 2: Identifying Structures to Support Primary Functionality
-In this iteration, the architecture elements are revised and structures are identified to support the primary functionality.<br/>
-
 The focus of this section is to present the results of the activities that are performed from each step of the ADD process in the second iteration. This iteration will dive deeper into more detailed decisions that will promote better implementation which will aid the development team. As we can not predict everything, we need to be more disciplined on which decisions we make and attack them from the most significant to least significant.
 
 ## Table of Contents:
