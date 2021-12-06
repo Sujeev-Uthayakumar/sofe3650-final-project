@@ -36,7 +36,7 @@ The instantiation design decisions are summarized in the following table:
 The figure below shows a refined deployment diagram that includes the introduction of redundancy in the system.
 <p align="center">
   <img src="https://i.ibb.co/4NTS2g1/iteration-3-deployment.jpg">
-<p align="center"><b>Final deployment diagram based off of decisions made in iteration 3, including the GeoLocation API</b></p>
+<p align="center"><b>Figure 4.1 - Final deployment diagram based off of decisions made in iteration 3, including the GeoLocation API</b></p>
 </p>
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose:
