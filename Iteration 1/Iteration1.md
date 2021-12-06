@@ -120,7 +120,7 @@ This following table highlights the design decisions that were made during this 
 |               |         UC-6        |                      | Selected reference architecture establishes modules that will support this functionality.                                       |
 |               |         UC-9        |                      | Selected reference architecture establishes modules that will support this functionality.                                       |
 |               |         QA-1        |                      | Addition of modules within the reference architecture in the data layer to store new users. The details have not been defined.  |
-|               |         QA-3        |                      | Supported with the inclusion of the Heroku development. But no further details were given.                                      |
+|               |                |                QA-3       | Supported with the inclusion of the Heroku development. But no further details were given.                                      |
 |               |         QA-4        |                      | Introduction of three-tier deployment using handler bars. Further details will be provided in later iterations.                 |
 |               |         QA-5        |                      | Addition of data source using Heroku. But no further details were given.                                                        |
 |               |        CON-3        |                      | Support with the three developments.                                                                                            |
