@@ -17,10 +17,10 @@ The focus of this section is to present the results of the activities that are p
 The goal of this iteration is to address the general architectural concern of identifying structures to support primary functionality. Identifying these elements is important for understanding how functionality is supported and addressing CRN-3. 
 
 Besides CRN-3, the architect considers the system’s primary use cases:
-- UC-1
-- UC-2
-- UC-6
-- UC-9
+- UC-1: Store users
+- UC-2: Send messages
+- UC-6: Display users
+- UC-9: Sending joining and leaving messages
 
 ## Step 3: Choose One or More Elements of the System to Refine
 The elements that will be refined in this iteration are the modules located in the different layers defined by the three-tier reference architectures from the previous iteration. In general, the support of functionality in this system requires the collaboration of components associated with modules that are located in the different layers. 
