@@ -4,6 +4,10 @@
 
 ## System Requirements
 
+Use Cases:
+
+![Use Cases](https://ibb.co/64sPsj0)
+
 Quality Attributes Scenarios:
 | ID   | Quality Attribute | Scenario                                                                                                                            | Associated |
 |------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------|
