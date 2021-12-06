@@ -3,7 +3,7 @@
 - [System Requirements](#System-Requirements)
 - [Contributors](#Contributors)
 
-## System Requirements
+## System Requirements:
 
 Use Cases:
 <p align="center">
