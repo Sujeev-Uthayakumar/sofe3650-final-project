@@ -14,7 +14,7 @@ In this section, the results of the activities performed in each of the steps in
 - [Contributors:](#Contributors)
 
 ## Step 2: Establish Iteration Goal By Selecting Drivers:
-For this iteration, the architect focuses on the QA-3 scenario which sends location coordinates but shifts it slightly.
+For this iteration, the architect focuses on the QA-3 scenario which sends location coordinates but shifts it slightly for privacy reasons.
 
 ## Step 3: Choose One or More Elements of the System to Refine:
 For this availability scenario, the elements that will be refined are the physical nodes that were identified during the second iteration:
