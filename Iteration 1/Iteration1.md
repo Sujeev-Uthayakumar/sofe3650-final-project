@@ -1,5 +1,5 @@
 # SOFE 3650 Final Project Iteration 1: Establishing an Overall System Structure
-The focus of this section is to present the results of the activities that are performed in each of the steps in iteration 1 of the ADD design process. Step 2 until the end of step 7 will be focusing on iteration 1, where we will refine our requirements and quality attributes.
+The focus of this section is to present the results of the activities that are performed in each of the steps in iteration 1 of the ADD design process. Step 2 till the end of step 7 will focus on iteration 1, where we will refine our requirements and quality attributes.
 
 ## Table of Contents:
 - [Iteration 1 PDF](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Iteration%201/Project%20Deliverable%203%20Iteration%201.pdf)
@@ -13,7 +13,7 @@ The focus of this section is to present the results of the activities that are p
 
 
 ## Step 2: Establish Iteration Goal by Selecting Drivers:
-This is the first iteration of the design of a USChat system, so the iteration goal is to establish the initial design of the system. Where we will establish the overall system structure that the basis of the project is built upon. This iteration will be driven by general architectural concerns, and there will be a focus on all the drivers that may further influence the general structure of the system. In particular, we will focus on items within:  
+This is the first iteration of the design of a USChat system, so the iteration goal is to establish the initial design of the system. Here we will establish the overall system structure that the basis of the project is built upon. This iteration will be driven by general architectural concerns, and there will be a focus on all the drivers that may further influence the general structure of the system. In particular, we will focus on items within:  
 - QA-1: Scalability
 - QA-3: Security
 - QA-4: Performance
