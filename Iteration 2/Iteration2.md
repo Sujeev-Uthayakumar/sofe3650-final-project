@@ -85,17 +85,16 @@ As a result of the decisions made in step 5, the design decisions can be portray
 
 <p align="center">
   <img src="https://i.ibb.co/ThWfWzc/Domain-Model.jpg">
-  <p align="center">Figure 3.1 - The figure showcases an initial domain model for the system that showcases the primary use cases</p>
+  <p align="center"><b>Figure 3.1 - The figure showcases an initial domain model for the system that showcases the primary use cases</b></p>
 </p>
 
 <p align="center">
   <img src="https://i.ibb.co/88VNSJZ/Untitled-Diagram.jpg">
-  Figure 3.2 - The figure shows the domain objects that are instantiated for the use case model
-</p>
+  <p align="center"><b>Figure 3.2 - The figure shows the domain objects that are instantiated for the use case model</b></p>
 
 <p align="center">
-  <img src="https://i.ibb.co/v40FFvN/iteration-2-architecture.jpg"><br>
-  Figure 3.3 - The figure shows the reference architecture for three-tier architecture, where modules that support the primary use cases
+  <img src="https://i.ibb.co/v40FFvN/iteration-2-architecture.jpg">
+  <p align="center"><b>Figure 3.3 - The figure shows the reference architecture for three-tier architecture, where modules that support the primary use cases</b>
 </p>
 <table>
   <tr>
@@ -133,7 +132,7 @@ As a result of the decisions made in step 5, the design decisions can be portray
 </table>
 <p align="center">
   <img src="https://i.ibb.co/c6nKD1c/usecase-2.jpg">
-  <p align="center">Figure 3.4 - Sequence diagram for UC-2</p>
+<p align="center"><b>Figure 3.4 - Sequence diagram for UC-2</b></p>
 </p>
 <table>
   <tr>
