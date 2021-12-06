@@ -156,6 +156,98 @@ As a result of the decisions made in step 5, the design decisions can be portray
  
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 The decisions made in this iteration provided an initial understanding of how the system shall function. The modules associated with the primary use cases were identified by the architect, and the modules associated with the rest of the functionality were identified by the rest of the team.
+<table>
+  <tr>
+    <th>Not Addressed</th>
+    <th>Partially Addressed</th>
+    <th>Completely Addressed</th>
+    <th>Design Decisions Made During this Iteration</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>UC-1</td>
+    <td>Modules across the layers and preliminary interfaces to support this use case have been identified.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>UC-2</td>
+    <td>Modules across the layers and preliminary interfaces to support this use case have been identified.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>UC-6</td>
+    <td>Modules across the layers and preliminary interfaces to support this use case have been identified.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>UC-9</td>
+    <td>Modules across the layers and preliminary interfaces to support this use case have been identified.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>QA-1</td>
+    <td></td>
+    <td>The elements that support the associated use case (UC-1) have been identified.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>QA-3</td>
+    <td></td>
+    <td>No relevant decisions were made.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>QA-4</td>
+    <td></td>
+    <td>The elements that support the associated use cases (All) have been identified.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>QA-5</td>
+    <td></td>
+    <td>The elements that support the associated use case (UC-6) have been identified.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>CON-3</td>
+    <td>Modules responsible for authenticating have been identified.</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td>CON-4</td>
+    <td></td>
+    <td>No relevant decision was made.</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td>CON-5</td>
+    <td></td>
+    <td>No relevant decision was made.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>CRN-2</td>
+    <td>Modules incorporating handlebars have been identified.</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td>CRN-3</td>
+    <td>Modules associated with all of the use cases have been identified and a work assignment matrix has been created</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td>CRN-4</td>
+    <td></td>
+    <td>The architectural concern of unit-testing modules, which was introduced in this new interaction.</td>
+  </tr>
+</table>
 
 ## Contributors:
 * Sujeev Uthayakumar - 100744194
