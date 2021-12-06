@@ -194,6 +194,12 @@ The decisions made in this iteration provided an initial understanding of how th
     <td>UC-6</td>
     <td>Modules across the layers and preliminary interfaces to support this use case have been identified.</td>
   </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>UC-7</td>
+    <td>Modules across the layers and preliminary interfaces to support this use case have been identified.</td>
+  </tr>
   <tr>
     <td></td>
     <td></td>
