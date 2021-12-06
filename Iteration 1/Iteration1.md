@@ -1,5 +1,5 @@
 # SOFE 3650 Final Project Iteration 1: Establishing an Overall System Structure
-The focus of this section is to present the results of the activities that are performed in each of the steps in iteration 1 of the ADD design process. Step 2 till the end of step 7 will be focusing on iteration 1, where we will refine our requirements and quality attributes.
+The focus of this section is to present the results of the activities that are performed in each of the steps in iteration 1 of the ADD design process. Step 2 until the end of step 7 will be focusing on iteration 1, where we will refine our requirements and quality attributes.
 
 ## Table of Contents:
 - [Iteration 1 PDF](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Iteration%201/Project%20Deliverable%203%20Iteration%201.pdf)
@@ -13,7 +13,7 @@ The focus of this section is to present the results of the activities that are p
 
 
 ## Step 2: Establish Iteration Goal by Selecting Drivers:
-This is the first iteration of the design of a USChat system, so the iteration goal is to establish the initial design of the system, where we will establish the overall system structure. This iteration will be driven by general architectural concerns, and there will be a focus on all the drivers that may further influence the general structure of the system. In particular, we will focus on items within:  
+This is the first iteration of the design of a USChat system, so the iteration goal is to establish the initial design of the system. Where we will establish the overall system structure that the basis of the project is built upon. This iteration will be driven by general architectural concerns, and there will be a focus on all the drivers that may further influence the general structure of the system. In particular, we will focus on items within:  
 - QA-1: Scalability
 - QA-3: Security
 - QA-4: Performance
@@ -30,7 +30,7 @@ This is the first iteration of the design of a USChat system, so the iteration g
 In this case, the element to refine is the entire USChat system. This refinement is performed through decomposition. The refinement will focus primarily on defining this particular element's components.
 
 ## Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers:
-In this current iteration, the goal of structuring the entire system, design concepts are selected from the criteria presented in the system requirements section. The table below will summarize the selection of design decisions.
+In this current iteration the goal is the structuring of the entire system. Design concepts are selected from the criteria presented in the system requirements section. The table below will summarize the selection of design decisions:
 <table>
   <tr>
     <th>Design Decision and Location</th>
@@ -38,12 +38,12 @@ In this current iteration, the goal of structuring the entire system, design con
   </tr>
   <tr>
     <td>Logically structure the client part of the system using the Web Application reference architecture.</td>
-    <td>The Web Application reference architecture supports the development of a web browser that communicates with the Heroku Development Server. This application supports web applications as the majority of it resides on the server, and its architecture is typically composed of three layers.</td>
+    <td>The Web Application reference architecture supports the functionality of a web browser that communicates with the Heroku Development Server. This application supports web applications as the majority of it resides on the server, and its architecture is typically composed of three layers.</td>
   </tr>
   <tr>
     <td>Physically structure the application using the Three-Tier Deployment pattern.</td>
     <td>Since this system must be accessed from a web browser (CON-5)
-where (CON-3) and (CON-4) will be considered.
+where (CON-3) and (CON-4) will be considered. The three-tier deploymenet patter is used due to its ability to scale and allows us to target each of the layers separately.
 </td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ This technology also facilitates (CON-1).
         </tr>
         <tr>
           <td>Rich Client Applications</td>
-          <td>This reference architecture is oriented towards a local application that is stand-alone. This architecture will not support your system as it requires a server to allow users to use it concurrently. This was discarded due to the usage of local components.
+          <td>This reference architecture is oriented towards a local application that is stand-alone. This architecture will not support the USChat system as it requires a server to allow users to use it concurrently. This was discarded due to the usage of local components.
 </td>
         </tr>
         <tr>
@@ -70,7 +70,7 @@ This technology also facilitates (CON-1).
         </tr>
         <tr>
           <td>Mobile Applications</td>
-          <td>This reference architecture is oriented towards handheld devices. This was discarded as this system is not oriented towards mobile devices.</td>
+          <td>This reference architecture is oriented towards handheld devices. This was discarded as this system is not oriented towards mobile devices and will focus more on web based usage regardless of device.</td>
         </tr>
 </table>
 
@@ -83,6 +83,7 @@ The instantiation design decisions considered and made are summarized in the fol
 | In the data layer, there is a module in the Web Application using Heroku as the main data source    | A component from the reference architecture is updated to allow access to Heroku, a hosting application. Facilitates all quality attributes, as well as constraints.                             |
 
 ## Step 6: Sketch Views and Record Design Decisions:
+The following table outlines the responsibilities of particular elements with in the USChat system:
 | Element              | Responsibility                                                                                                                                                                                         |
 |----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Presentation Layer   | This layer contains modules that control user interaction and use case-control.                                                                                                                        |
@@ -111,6 +112,7 @@ The instantiation design decisions considered and made are summarized in the fol
 </p>
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration:
+This following table highlights the design decisions that were made during this iteration:
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During this Iteration                                                                                     |
 |---------------|---------------------|----------------------|---------------------------------------------------------------------------------------------------------------------------------|
 |               |         UC-1        |                      | Selected reference architecture establishes modules that will support this functionality.                                       |
