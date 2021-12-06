@@ -27,7 +27,7 @@ This is the first iteration of the design of a USChat system, so the iteration g
 </p>
 
 ## Step 3: Choose One or More Element to Refine:
-In this case, the element to refine is the entire USChat system. This refinement is performed through decomposition. The refinement will focus primarily on defining this particular element.
+In this case, the element to refine is the entire USChat system. This refinement is performed through decomposition. The refinement will focus primarily on defining this particular element's components.
 
 ## Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers:
 In this current iteration, the goal of structuring the entire system, design concepts are selected from the criteria presented in the system requirements section. The table below will summarize the selection of design decisions.
