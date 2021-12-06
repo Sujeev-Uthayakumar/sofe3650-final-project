@@ -22,7 +22,7 @@ This is the first iteration of the design of a USChat system, so the iteration g
 - QA-5: Availability
 - CON-3: Users should be authenticated before joining the room
 - CON-4: Network connection between user and server must have low bandwidth and be reliable
-- CON-5: The system must be accessed through a web browser such as Chrome, Firefox Safari, etc.
+- CON-5: The system must be accessed through a web browser such as Chrome, Firefox, Safari and etc.
 <p align="center">
   <img src="https://i.ibb.co/txs2sfQ/context-diagram.jpg">
 <p align="center"><b>Figure 2.1 - Context diagram for the USChat system</b></p>
