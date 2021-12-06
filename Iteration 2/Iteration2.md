@@ -13,7 +13,7 @@ The focus of this section is to present the results of the activities that are p
 - [Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Process](#Step-7-Perform-Analysis-of-Current-Design-and-Review-Iteration-Goal-and-Achievement-of-Design-Purpose)
 - [Contributors](#Contributors)
 
-## Step 2: Establish Iteration Goal by Selecting Drivers
+## Step 2: Establish Iteration Goal by Selecting Drivers:
 The goal of this iteration is to address the general architectural concern of identifying structures to support primary functionality. Identifying these elements is important for understanding how functionality is supported and addressing CRN-3. 
 
 Besides CRN-3, the architect considers the system’s primary use cases:
@@ -22,10 +22,10 @@ Besides CRN-3, the architect considers the system’s primary use cases:
 - UC-6: Display users
 - UC-9: Sending joining and leaving messages
 
-## Step 3: Choose One or More Elements of the System to Refine
+## Step 3: Choose One or More Elements of the System to Refine:
 The elements that will be refined in this iteration are the modules located in the different layers defined by the three-tier reference architectures from the previous iteration. In general, the support of functionality in this system requires the collaboration of components associated with modules that are located in the different layers. 
 
-## Step 4: Choose One or More Design Concepts that Satisfy the Selected Drivers
+## Step 4: Choose One or More Design Concepts that Satisfy the Selected Drivers:
 The following table summarizes the design decisions:
 <table>
   <tr>
@@ -53,7 +53,7 @@ By using handlebars which are functions that support GUI it makes it easier to d
 
 </table>
 
-## Step 5: Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces 
+## Step 5: Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces: 
 The instantiation design decisions made in this iteration are summarized in the following table:
 <table>
   <tr>
