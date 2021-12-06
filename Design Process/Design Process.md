@@ -1,7 +1,7 @@
 # Table of Contents:
 - [The Design Process PDF](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Deliverable%203%20-%20Design%20Process.pdf)
 - [The Design Process](#The-Design-Process)
-- [Step 1: Review Inputs](#Review-Inputs)
+- [Review Inputs](#Review-Inputs)
 - [Contributors](#Contributors)
 
 ## The Design Process
