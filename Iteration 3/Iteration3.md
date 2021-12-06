@@ -4,7 +4,7 @@ In this iteration, additional architecture elements are revised and quality attr
 In this section, the results of the activities performed in each of the steps in the third iteration of the design process are presented. This iteration is used to build off of the fundamental decisions made in iteration 1 and 2, which leads to an important quality attribute scenario.
 
 ## Table of Contents:
-- [Iteration 3 PDF](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Deliverable%203%20Iteration%203.pdf)
+- [Iteration 3 PDF](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Iteration%203/Project%20Deliverable%203%20Iteration%203.pdf)
 - [Step 2: Establish Iteration Goal by Selecting Drivers](#Step-2-Establish-Iteration-Goal-By-Selecting-Drivers)
 - [Step 3: Choose One or More Elements of the System to Refine](#Step-3-Choose-One-or-More-Elements-of-the-System-to-Refine)
 - [Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers](#Step-4-Choose-One-or-More-Design-Concepts-That-Satisfy-the-Selected-Drivers)
