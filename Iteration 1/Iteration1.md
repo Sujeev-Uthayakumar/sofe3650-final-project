@@ -4,7 +4,7 @@ In this iteration, the reference architecture was revised and the overall system
 The focus of this section is to present the results of the activities that are performed in each of the steps in iteration 1 of the ADD design process. Step 2 till the end of step 7 will be focusing on iteration 1, where we will refine our requirements and quality attributes.
 
 ## Table of Contents:
-- [Iteration 1 PDF](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Deliverable%203%20Iteration%201.pdf)
+- [Iteration 1 PDF](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Iteration%201/Project%20Deliverable%203%20Iteration%201.pdf)
 - [Step 2: Establish Iteration Goal by Selecting Drivers](#step-2-establish-iteration-goal-by-selecting-drivers)
 - [Step 3: Choose One or More Element to Refine](#step-3-choose-one-or-more-element-to-refine)
 - [Step 4: Choose One or More Design Concepts That Satisfy The Selected Drivers](#step-4-choose-one-or-more-design-concepts-that-satisfy-the-selected-drivers)
