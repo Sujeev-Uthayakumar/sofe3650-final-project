@@ -128,7 +128,32 @@ As a result of the decisions made in step 5, the design decisions can be portray
     <td>Responsible for encapsulating the emitter and listener.</td>
   </tr>
 </table>
-  
+<p align="center">
+  <img src="https://i.ibb.co/c6nKD1c/usecase-2.jpg">
+</p>
+<table>
+  <tr>
+    <th>Element</th>
+    <th>Responsibility</th>
+  </tr>
+  <tr>
+    <td>Client Interface</td>
+    <td>Display GUI for user to input/view text, view users, and send location.</td>
+  </tr>
+  <tr>
+    <td>Profanity Checker</td>
+    <td>Checks if messages do not have offensive language before displaying it to the users.</td>
+  </tr>
+  <tr>
+    <td>Server</td>
+    <td>Sends the messages to the rooms and cancels messages which are offensive.</td>
+  </tr>
+  <tr>
+    <td>Room</td>
+    <td>Displays messages, users, and the time messages are sent.</td>
+  </tr>
+</table>
+ 
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 The decisions made in this iteration provided an initial understanding of how the system shall function. The modules associated with the primary use cases were identified by the architect, and the modules associated with the rest of the functionality were identified by the rest of the team.
 
