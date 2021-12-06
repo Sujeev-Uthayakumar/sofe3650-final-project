@@ -33,7 +33,10 @@ The instantiation design decisions are summarized in the following table:
 | Deploy a method that will shift the location | The user's location will be taken by the user pressing a button. The location will be processed by GeoLocation MDN, and the geographical coordinates will be shifted. The coordinate will be processed through google's map API and print within the chat |
 
 ## Step 6: Sketch Views and Record Design Decisions:
-Figure 4.10 shows a refined deployment diagram that includes the introduction of redundancy in the system. 
+The figure below shows a refined deployment diagram that includes the introduction of redundancy in the system.
+<p align="center">
+  <img src="https://i.ibb.co/4NTS2g1/iteration-3-deployment.jpg">
+</p>
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose:
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During this Iteration                                                                                                                                    |
