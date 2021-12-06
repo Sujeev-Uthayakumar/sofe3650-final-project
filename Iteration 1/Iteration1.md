@@ -1,9 +1,10 @@
-# SOFE 3650 Final Project Iteration 1
-In this iteration, the reference architecture was revised and the overall system structure was established.
+# SOFE 3650 Final Project Iteration 1: Establishing an Overall System Structure
+In this iteration, the reference architecture was revised and the overall system structure was established.<br/>
+
+The focus of this section is to present the results of the activities that are performed in each of the steps in iteration 1 of the ADD design process. Step 2 till the end of step 7 will be focusing on iteration 1, where we will refine our requirements and quality attributes.
 
 ## Table of Contents:
 - [Iteration 1 PDF](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Deliverable%203%20Iteration%201.pdf)
-- [Iteration 1: Establishing an Overall System Structure](#iteration-1-establishing-an-overall-system-structure)
 - [Step 2: Establish Iteration Goal by Selecting Drivers](#step-2-establish-iteration-goal-by-selecting-drivers)
 - [Step 3: Choose One or More Element to Refine](#step-3-choose-one-or-more-element-to-refine)
 - [Step 4: Choose One or More Design Concepts That Satisfy The Selected Drivers](#step-4-choose-one-or-more-design-concepts-that-satisfy-the-selected-drivers)
@@ -12,8 +13,6 @@ In this iteration, the reference architecture was revised and the overall system
 - [Step 7: Perform Analysis of Current Design and Review Iteration](#step-7-perform-analysis-of-current-design-and-review-iteration)
 - [Contributors](#contributors)
 
-## Iteration 1: Establishing an Overall System Structure
-The focus of this section is to present the results of the activities that are performed in each of the steps in iteration 1 of the ADD design process. Step 2 till the end of step 7 will be focusing on iteration 1, where we will refine our requirements and quality attributes.
 
 ## Step 2: Establish Iteration Goal by Selecting Drivers
 This is the first iteration of the design of a USChat system, so the iteration goal is to establish the initial design of the system, where we will establish the overall system structure. This iteration will be driven by general architectural concerns, and there will be a focus on all the drivers that may further influence the general structure of the system. In particular, we will focus on items within:  
