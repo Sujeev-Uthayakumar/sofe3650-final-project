@@ -5,7 +5,7 @@
 - [Contributors](#Contributors)
 
 ## The Design Process:
-This is the first part of the design process, we must translate the requirements and quality attributes that were previously gathered into design decisions. These design decisions will be derived from QA table located in system requirements, which is a list of our quality attributes within our system. This is the beginning of making design decisions that will allow for the development of the entire design of USChat.
+This is the first part of the design process, we must translate the requirements and quality attributes that were previously gathered into design decisions. These design decisions will be derived from QA table located in system requirements, which is a list of the quality attributes within our system. This is the start of making design decisions that will allow for the development of the entire design of USChat.
 
 ## Review Inputs:
 The first step of the ADD method involves reviewing the inputs and identifying which requirements will be considered as drivers. The inputs for USChat are summarized in the table below.
