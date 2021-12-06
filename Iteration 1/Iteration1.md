@@ -24,6 +24,9 @@ This is the first iteration of the design of a USChat system, so the iteration g
 - CON-3: Users should be authenticated before joining the room
 - CON-4: Network connection between user and server must have low bandwidth and be reliable
 - CON-5: The system must be accessed through a web browser such as Chrome, Firefox Safari, etc.
+<p align="center">
+  <img src="https://i.ibb.co/txs2sfQ/context-diagram.jpg">
+</p>
 
 ## Step 3: Choose One or More Element to Refine
 In this case, the element to refine is the entire USChat system. This refinement is performed through decomposition. 
@@ -57,6 +60,9 @@ The instantiation design decisions considered and made are summarized in the fol
 | Security             | These components include cross-cutting functionality that handles security aspects such as authorization and authentication.                                                                           |
 | Communication        | These components include cross-cutting functionality that handles communication mechanisms across layers and physical tiers.                                                                           |
 | Operation Management | These components include cross-cutting functionality such as exception management, logging, and instrumentation, and validation.                                                                       |
+<p align="center">
+  <img src="https://i.ibb.co/2ssYYky/iteration-1-architecture.jpg">
+</p>
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During this Iteration                                                                                     |
