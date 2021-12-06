@@ -3,7 +3,7 @@ The objective of this project is to demonstrate a methodological set of steps in
 
 Today’s chat apps are explored globally by billions of users for both personal as well as commercial fulfillment, USChat aims to target the extremly large communications market. The USChat chat application is a peer to peer software solution, that allows users to create and join chat rooms to communicate amongst one another. Providing users with rich features, USChat aims deliver incredible live chat experience, allowing users to share text messages. Some of the key features of the system that are to be implemented is the ability to create distinct user names, a profanity checker, the ability to send server messages when users enter or leave the room and allowing users to send their location. Finally, we want our application to be able to display messages quickly to other users.
 
-The USChat chat application was chosen due to the group's interest in web applications. The group as a collective are looking to gain more insight on refining architectures surrounding web applications.
+The USChat chat application was chosen due to the group's interest in web applications. The group as a collective are looking to gain more insight on refining architectures surrounding web applications. To be able to build out our application, we must be able to make decisions that drive the software design.
 
 ## Table of Contents:
 1. [System Requirements](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/System%20Requirements/System%20Requirements.md) 
