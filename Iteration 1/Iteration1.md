@@ -106,6 +106,10 @@ The instantiation design decisions considered and made are summarized in the fol
   <img src="https://i.ibb.co/2ssYYky/iteration-1-architecture.jpg">
 </p>
 
+<p align="center">
+  <img src="https://i.ibb.co/fHZNpqs/iteration-3-deployment-1.jpg">
+</p>
+
 ## Step 7: Perform Analysis of Current Design and Review Iteration
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During this Iteration                                                                                     |
 |---------------|---------------------|----------------------|---------------------------------------------------------------------------------------------------------------------------------|
