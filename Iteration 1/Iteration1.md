@@ -33,15 +33,30 @@ In this case, the element to refine is the entire USChat system. This refinement
 
 ## Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers
 In this current iteration, the goal of structuring the entire system, design concepts are selected from the criteria presented in Section 1.1. The table below will summarize the selection of design decisions.
-<table style="width: 50%">
+<table>
   <tr>
     <th>Design Decision and Location</th>
     <th>Rationale</th>
   </tr>
   <tr>
     <td>Logically structure the client part of the system using the Web Application reference architecture.</td>
-    <td>The Web Application reference architecture supports the development of a web browser that communicates with the Heroku Development Server. This application supports web applications as the majority of it resides on the server, and its architecture is typically composed of three layers.
-      <table>
+    <td>The Web Application reference architecture supports the development of a web browser that communicates with the Heroku Development Server. This application supports web applications as the majority of it resides on the server, and its architecture is typically composed of three layers.</td>
+  </tr>
+  <tr>
+    <td>Physically structure the application using the Three-Tier Deployment pattern.</td>
+    <td>Since this system must be accessed from a web browser (CON-5)
+where (CON-3) and (CON-4) will be considered.
+</td>
+  </tr>
+  <tr>
+    <td>Deploy the application using Heroku Deployment. </td>
+    <td>Access to the application is obtained via a web browser (CON-5).
+This technology also facilitates (CON-1).
+</td>
+  </tr>
+</table>
+
+<table>
         <tr>
           <th>Alternatives</th>
           <th>Reason for Discarding</th>
@@ -59,21 +74,6 @@ In this current iteration, the goal of structuring the entire system, design con
           <td>Mobile Applications</td>
           <td>This reference architecture is oriented towards handheld devices. This was discarded as this system is not oriented towards mobile devices.</td>
         </tr>
-      </table>
-</td>
-  </tr>
-  <tr>
-    <td>Physically structure the application using the Three-Tier Deployment pattern.</td>
-    <td>Since this system must be accessed from a web browser (CON-5)
-where (CON-3) and (CON-4) will be considered.
-</td>
-  </tr>
-  <tr>
-    <td>Deploy the application using Heroku Deployment. </td>
-    <td>Access to the application is obtained via a web browser (CON-5).
-This technology also facilitates (CON-1).
-</td>
-  </tr>
 </table>
 
 ## Step 5: Instantiate Architecture Elements, Allocate Responsibilities, and Define Interfaces
