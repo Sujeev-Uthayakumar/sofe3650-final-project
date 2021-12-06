@@ -49,6 +49,7 @@ The figure below shows a refined deployment diagram that includes the introducti
 |               |        CON-5        |                      | No relevant decisions were made.                                                                                                                                               |
 |               |        CRN-2        |                      | No relevant decisions were made.                                                                                                                                               |
 |               |        CRN-3        |                      | No relevant decisions were made.                                                                                                                                               |
+|               |                |           UC-8           | Introduced a geolocation api, that will allow users to send location                                                                                                                                               |
 |               |        CRN-4        |                      | No relevant decisions were made.                                                                                                                                               |
 
 ## Contributors:
