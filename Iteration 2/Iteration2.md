@@ -4,7 +4,7 @@ In this iteration, the architecture elements are revised and structures are iden
 The focus of this section is to present the results of the activities that are performed from each step of the ADD process in the second iteration. This iteration will dive deeper into more detailed decisions that will promote better implementation which will aid the development team. As we can not predict everything, we need to be more disciplined on which decisions we make and attack them from the most significant to least significant.
 
 ## Table of Contents:
-- [Iteration 2 PDF](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Deliverable%203%20Iteration%202.pdf)
+- [Iteration 2 PDF](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Iteration%202/Project%20Deliverable%203%20Iteration%202.pdf)
 - [Step 2: Establish Iteration Goal by Selecting Drivers](#Step-2-Establish-Iteration-Goal-by-Selecting-Drivers)
 - [Step 3: Choose One or More Elements of the System to Refine](#Step-3-Choose-One-or-More-Elements-of-the-System-to-Refine)
 - [Step 4: Choose One or More Design  Concepts That Satisfy the Selected Drivers](#Step-4-Choose-One-or-More-Design-Concepts-that-Satisfy-the-Selected-Drivers)
