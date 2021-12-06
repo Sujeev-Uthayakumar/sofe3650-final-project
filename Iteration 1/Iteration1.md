@@ -108,7 +108,7 @@ The following table outlines the responsibilities of particular elements with in
 
 <p align="center">
   <img src="https://i.ibb.co/fHZNpqs/iteration-3-deployment-1.jpg">
-  <p align="center"><b>Figure 2.3 - Initial deployment diagram based off of decisions made in iteration 1<b></p>
+  <p align="center"><b>Figure 2.3 - Initial deployment diagram based off of decisions made in iteration 1</b></p>
 </p>
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration:
