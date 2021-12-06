@@ -1,6 +1,4 @@
 # SOFE 3650 Final Project Iteration 3: Addressing Quality Attribute Scenario Driver (QA-3)
-In this iteration, additional architecture elements are revised and quality attribute scenarios ares addressed.<br/>
-
 In this section, the results of the activities performed in each of the steps in the third iteration of the design process are presented. This iteration is used to build off of the fundamental decisions made in iteration 1 and 2, which leads to an important quality attribute scenario.
 
 ## Table of Contents:
