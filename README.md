@@ -11,7 +11,7 @@ The USChat chat application was chosen due to the group's interest in web applic
 3. [Iteration 1](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Iteration%201/Iteration1.md)
 4. [Iteration 2](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Iteration%202/Iteration2.md)
 5. [Iteration 3](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Iteration%203/Iteration3.md)
-6. [Kanban Board](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/projects/1)
+6. [Kanban Board](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/projects/2)
 
 ## Additional Content:
 1. [Project Proposal](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Proposal.pdf)
