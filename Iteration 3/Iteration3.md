@@ -22,14 +22,32 @@ For this availability scenario, the elements that will be refined are the physic
 
 ## Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers
 The design concepts used in this iteration are the following:
+| Design Decisions and Location | Rationale and Assumptions |
+| --- | --- |
+| Introduce the ability to shift user location based on the graphic data taken from GeoLocation | By refining the element system can have increased security as the user location direct location will not be revealed to the other users within the chat app. |
 
 ## Step 5: Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces 
 The instantiation design decisions are summarized in the following table: 
+| Design Decisions and Location                | Rationale                                                                                                                                                                                                                                                 |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Deploy a method that will shift the location | The user's location will be taken by the user pressing a button. The location will be processed by GeoLocation MDN, and the geographical coordinates will be shifted. The coordinate will be processed through google's map API and print within the chat |
 
 ## Step 6: Sketch Views and Record Design Decisions
 Figure 4.10 shows a refined deployment diagram that includes the introduction of redundancy in the system. 
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
+| Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During this Iteration                                                                                                                                    |
+|---------------|---------------------|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|               |         QA-1        |                      | No relevant decisions were made.                                                                                                                                               |
+|               |                     |         QA-3         | By shifting the location obtained by Geolocation we are able to hide the user's direct location. Thus, giving the user's relative location as opposed to an absolute location. |
+|               |         QA-4        |                      | No relevant decisions were made.                                                                                                                                               |
+|               |         QA-5        |                      | No relevant decisions were made.                                                                                                                                               |
+|               |        CON-3        |                      | No relevant decisions were made.                                                                                                                                               |
+|               |        CON-4        |                      | No relevant decisions were made.                                                                                                                                               |
+|               |        CON-5        |                      | No relevant decisions were made.                                                                                                                                               |
+|               |        CRN-2        |                      | No relevant decisions were made.                                                                                                                                               |
+|               |        CRN-3        |                      | No relevant decisions were made.                                                                                                                                               |
+|               |        CRN-4        |                      | No relevant decisions were made.                                                                                                                                               |
 
 ## Contributors:
 * Sujeev Uthayakumar - 100744194
