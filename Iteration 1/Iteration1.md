@@ -55,7 +55,7 @@ This technology also facilitates (CON-1).
 </td>
   </tr>
 </table>
-
+<hr>
 <table>
         <tr>
           <th>Alternatives</th>
