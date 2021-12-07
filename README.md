@@ -5,7 +5,7 @@ The objective of this project is to demonstrate a methodological set of steps in
 ### Project Description
 Chat apps today are explored globally by billions of users for both personal as well as commercial fulfillment. USChat aims to target the extremly large communications market. The USChat application is a peer-to-peer software solution that allows users to create and join chat rooms to communicate amongst one another. USChat provides users with rich features, and aims to deliver an incredible live chatting experience, allowing users to share text messages. Some of the key features of the system that are to be implemented are the ability to join rooms using distinct usernames, a profanity checker, and the ability to send server messages when users enter or leave the room and allowing users to send their location. 
 
-### Why We Choose This Application
+### Why We Chose This Application
 The USChat application was chosen due to the group's interest in web applications. The group is collectively looking to gain more insight on refining architectures surrounding web applications. To be able to build out our application, we must be able to make decisions that drive the software design.
 
 ### Conclusion (After viewing all items in the table of contents)
