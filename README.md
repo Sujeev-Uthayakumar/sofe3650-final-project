@@ -9,7 +9,7 @@ Chat apps today are explored globally by billions of users for both personal as 
 The USChat application was chosen due to the group's interest in web applications. The group is collectively looking to gain more insight on refining architectures surrounding web applications. To be able to build out our application, we must be able to make decisions that drive the software design.
 
 ### Conclusion 
-After applying the ADD process to our project we have become more familiar with how to effectively and efficently design applications for future purposes. 
+After applying the ADD process to our project we have become more familiar with how to effectively and efficently design applications for future purposes. By viewing the content within the table of contents below you are able to see the methodlogy used and how we went about design the application from the ground up. From viewing the iterations and kanban board you're able to see that we were able to fully or partial address the requirements we initial presented and have finalized a application which can be implemented to code with ease.
 
 ## Table of Contents:
 1. [System Requirements](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/System%20Requirements/System%20Requirements.md) 
