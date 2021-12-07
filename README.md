@@ -1,9 +1,15 @@
 # SOFE 3650 Final Project
+### Project Objective/Aim
 The objective of this project is to demonstrate a methodological set of steps in the design of a software architecture for a set of requirements provided by your instructor. The expected design approach to take is the Attribute Driven Design (ADD) presented in some detail in the "*Designing Software Architectures: A Practical Approach*" textbook and briefly overviewed here. The ADD process is applied to our USChat application, where we focus on defining the system architecture along with building out the implementation of our primary use cases.
 
+### Project Description
 Chat apps today are explored globally by billions of users for both personal as well as commercial fulfillment. USChat aims to target the extremly large communications market. The USChat application is a peer-to-peer software solution that allows users to create and join chat rooms to communicate amongst one another. USChat provides users with rich features, and aims to deliver an incredible live chatting experience, allowing users to share text messages. Some of the key features of the system that are to be implemented are the ability to join rooms using distinct usernames, a profanity checker, and the ability to send server messages when users enter or leave the room and allowing users to send their location. 
 
+### Why We Choose This Application
 The USChat application was chosen due to the group's interest in web applications. The group is collectively looking to gain more insight on refining architectures surrounding web applications. To be able to build out our application, we must be able to make decisions that drive the software design.
+
+### Conclusion 
+After applying the ADD process to our project we have become more familiar with how to effectively and efficently design applications for future purposes. 
 
 ## Table of Contents:
 1. [System Requirements](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/System%20Requirements/System%20Requirements.md) 
