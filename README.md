@@ -31,6 +31,7 @@ After applying the ADD process to our project we have become more familiar with 
 9. [Full Report PDF](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Deliverable%203.pdf)
 10. [Final Peer Assessment](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Peer%20Assessment/Final%20Peer%20Assessment.pdf)
 11. [Project Presentation](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/blob/master/Project%20Presentation.pdf)
+12. [Overall Project Kanban Board](https://github.com/Sujeev-Uthayakumar/sofe3650-final-project/projects/1)
 
 
 ## Contributors:
