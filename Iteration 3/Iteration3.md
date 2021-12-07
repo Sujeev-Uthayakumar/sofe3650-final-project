@@ -40,6 +40,7 @@ The figure below shows a refined deployment diagram that includes the introducti
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose:
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During this Iteration                                                                                                                                    |
 |---------------|---------------------|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|               |                |           UC-8           | Introduced a geolocation api, that will allow users to send location                                                                                                                                               |
 |               |         QA-1        |                      | No relevant decisions were made.                                                                                                                                               |
 |               |                     |         QA-3         | By shifting the location obtained by Geolocation we are able to hide the user's direct location. Thus, giving the user's relative location as opposed to an absolute location. |
 |               |         QA-4        |                      | No relevant decisions were made.                                                                                                                                               |
@@ -49,7 +50,6 @@ The figure below shows a refined deployment diagram that includes the introducti
 |               |        CON-5        |                      | No relevant decisions were made.                                                                                                                                               |
 |               |        CRN-2        |                      | No relevant decisions were made.                                                                                                                                               |
 |               |        CRN-3        |                      | No relevant decisions were made.                                                                                                                                               |
-|               |                |           UC-8           | Introduced a geolocation api, that will allow users to send location                                                                                                                                               |
 |               |        CRN-4        |                      | No relevant decisions were made.                                                                                                                                               |
 
 ## Contributors:
