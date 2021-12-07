@@ -121,12 +121,12 @@ This following table highlights the design decisions that were made during this 
 |               |         UC-9        |                      | Selected reference architecture establishes modules that will support this functionality.                                       |
 |               |         QA-1        |                      | Addition of modules within the reference architecture in the data layer to store new users. The details have not been defined.  |
 |               |        QA-2         |                    | Addition of Handlebars allows us to get the basis of our user interface, which will later be used to increase usability |
-|               |                 |             CON-2         | Addition of modules within the reference architecture in the data layer to store new users. With the introduction of heroku.  |
 |               |                |                QA-3       | Supported with the inclusion of the Heroku development. But no further details were given.                                      |
 |               |         QA-4        |                      | Introduction of three-tier deployment using Handlebars. Further details will be provided in later iterations.                 |
 |               |             |            QA-5              | Addition of data source using Heroku, known for its high availability.                                                       |
-|               |        CON-3        |                      | Support with the three developments.                                                                                            |
 |               |                     |         CON-1        | The introduction of heroku, subsequently addresses the number of users able to use the system due to heroku being a extremly large service provider.                                                     |
+|               |                 |             CON-2         | Addition of modules within the reference architecture in the data layer to store new users. With the introduction of heroku.  |
+|               |        CON-3        |                      | Support with the three developments.                                                                                            |
 |               |                     |         CON-4        | The introduction of heroku, subsequently addresses the number of users able to use the system due to heroku being a extremly large service provider known for 99.9% availability.                                                      |
 |               |                     |         CON-5        | Selection of reference architecture architectures and deployment patterns.                                                      |
 |               |                     |         CON-7        | Introduced heroku deployment, which stores user information on the server side                                                    |
